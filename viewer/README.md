@@ -29,6 +29,11 @@ The MovSim viewer can be started directly from the command-line. To see the MovS
     java -jar viewer/target/MovsimViewer-1.6.0-SNAPSHOT-jar-with-dependencies.jar -h
 
 
+To run directly:
+
+    java -jar viewer/target/MovsimViewer-1.6.0-SNAPSHOT-jar-with-dependencies.jar -f <path to .xprj file>
+
+
 Commercial use
 --------------
 
